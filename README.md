@@ -36,7 +36,7 @@ Before you begin please make sure to install this prerequisities
 ### Installation
 1. Clone the repository
    ```
-   git clone https://github.com/SandeepGarikapati/CleanIndia.git
+   git clone https://github.com/Priyanshu879/GreenHive.git
 
    ```
 2. Install the Dependencies
