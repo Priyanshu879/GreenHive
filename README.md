@@ -71,36 +71,6 @@ bun dev
 
 3. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Usage
-
-1. Login to the Website using WEB3Authentication
-   
-![Image stating how to login](imagesreadme/login.png)
-
-2. Home Page of the Website.
-
-![Image stating the home page of the website](imagesreadme/Home.png)
-
-3. Waste Repport page.
-
-![image showing how to report waste](imagesreadme/Reportwaste.png)
-
-4. Waste Collection Tasks Display page.
-
-![image stating the waste collection](imagesreadme/Collectwaste.png)
-
-5. Waste verification page.
-
-![image stating how to collect the waste](imagesreadme/wasteverification.png)
-
-6. Rewards Page.
-
-![image stating the rewards collection](imagesreadme/rewardspage.png)
-
-7. Leaderboard page
-
-![image showing the leader boards](imagesreadme/LeaderBoard.png)
-
 
 ## Deployment
 
@@ -132,10 +102,7 @@ Contributions are welcome! Please follow these steps:
 5. Push to the branch (`git push origin feature/your-feature-name`).
 6. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-Thank you for using Nirmal-Bharath. Contribute to cleanliness, dispose of waste the right way!
+Thank you for using GreenHive. Contribute to cleanliness, dispose of waste the right way!
