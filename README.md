@@ -1,4 +1,4 @@
-## ![Icon](NirmalBhumi.png)
+## GreenHive
 
 This web application leverages Gemini AI to streamline waste management. Users upload waste images, which Gemini analyzes to identify the waste type (e.g., plastic, paper) and estimates the quantity. After submission, a verifier uploads a photo of the collected waste to verify the match. If confirmed, the system rewards the waste collector with points, promoting responsible waste disposal and recycling.
 
