@@ -1,5 +1,5 @@
 import { Metadata } from "next";
 export const appMetadata: Metadata = {
-    title: "NirmalBhumi",
+    title: "GreenHive",
     description: "AI-powered waste management platform",
 };
